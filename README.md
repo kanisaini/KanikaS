@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kanika Saini
 
 
-<p align="center"><img width="700" src="C:\Users\kanis\Pictures\Screenshots" alt="description" /></p>
+<p align="center"><img width="700" src="C:\Users\kanis\Pictures\Screenshots" /></p>
 
 ## 🛠️ Tech Stack & Skills
 

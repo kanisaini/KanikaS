@@ -1,4 +1,8 @@
-# 🛠️ Tech Stack & Skills
+# Hi 👋, I'm Kanika Saini
+
+
+
+## 🛠️ Tech Stack & Skills
 
 Skill	Description
 Cloud Platforms	AWS,Azure (Data Factory, Databricks, Synapse Analytics),GCP
